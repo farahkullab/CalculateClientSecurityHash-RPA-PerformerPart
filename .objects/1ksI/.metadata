@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge ACME System 1  Lunch",
+  "Type": "App",
+  "Id": "1ksIygdvLUS02uXNvAK-6g",
+  "Reference": "fQeHmnSmrEerp-sDkPETbg/1ksIygdvLUS02uXNvAK-6g",
+  "Created": "2024-11-27T12:35:08.3398592Z",
+  "Updated": "2024-11-27T12:35:08.3398592Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

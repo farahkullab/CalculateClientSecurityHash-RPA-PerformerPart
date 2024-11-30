@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge ACME System 1  Lunch",
+  "Type": "Screen",
+  "Id": "ifxRplvtF0CtiiNCdKtDyw",
+  "Reference": "fQeHmnSmrEerp-sDkPETbg/ifxRplvtF0CtiiNCdKtDyw",
+  "ParentRef": "fQeHmnSmrEerp-sDkPETbg/h2WVENYRz0i6lwkBSogfkw",
+  "Created": "2024-11-27T12:35:08.37642Z",
+  "Updated": "2024-11-27T12:35:08.37642Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

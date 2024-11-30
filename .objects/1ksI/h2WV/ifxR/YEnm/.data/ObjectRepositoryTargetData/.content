@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="24BSQPD1sESKCTBWueetsw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sha1-online.com" CVScreenId="9d8aaed1-5799-4e1e-bd37-dfd00ed7bd3e" DesignTimeRectangle="736, 482, 686, 30" DesignTimeScaleFactor="1.4249999523162842" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='P' aaname='Result for sha1:  ' /&gt;&lt;webctrl tag='SPAN' aaname='*' /&gt;" Guid="eb24bcc3-5199-4742-b45f-69974f3533b5" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='SHA1 online' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="06b451fbff0682fe7933cd295680027b.png" xmlns="">0mrOi8E4X9UOJlIl7w1w8gA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
